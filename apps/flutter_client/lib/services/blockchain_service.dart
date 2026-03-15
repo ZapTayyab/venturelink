@@ -15,7 +15,7 @@ class BlockchainService {
   // Your deployed contract address (deploy once using Remix IDE)
   // See CONTRACT_ABI and SOLIDITY below
   static const String _contractAddress =
-      '0x0000000000000000000000000000000000000000'; // REPLACE after deploy
+      '0x56e2FC965181060EfB9Cd48235A8a13238F3fab4'; // REPLACE after deploy
 
   // Contract ABI - matches InvestmentLedger.sol
   static const String _contractAbi = '''
