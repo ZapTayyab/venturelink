@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1042264372635",
+    "project_id": "venturelink-dev",
+    "storage_bucket": "venturelink-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042264372635:android:6e82633a99ca41ea591d3e",
+        "android_client_info": {
+          "package_name": "com.company.venturelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAThU6LmnMwta98ZRWfnD34jgnHIy9596A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042264372635:android:10b27d949127bea7591d3e",
+        "android_client_info": {
+          "package_name": "com.venturelink.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAThU6LmnMwta98ZRWfnD34jgnHIy9596A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
